@@ -1,16 +1,26 @@
-# [Vertramp.org](http://Vertramp.org) source code
+# [Next.js](https://nextjs.org/) CoCalc Template
 
-This is the [vertramp.org](http://vertramp.org) website, which is written as a [Next.js](https://nextjs.org/) project and developed within https://cocalc.com. 
+This is a template to make it easier to develop and deploy static Next.js applications with https://cocalc.com.
 
 Author: [William Stein](https://wstein.org)
+
+LICENSE: MIT (intention is very free and open)
 
 ## Getting Started
 
 First, run the development server:
 
-```bash
+```sh
 npm install
 npm run dev
 ```
 
-In CoCalc, open  `https://cocalc.com/COCALC_PROJECT_ID/port/3000` with your browser to see the result, or outside of CoCalc just use https://localhost:3000.
+In CoCalc, open  `https://cocalc.com/COCALC_PROJECT_ID/port/3000/` with your browser to see the result.
+
+## Static site export
+
+(TODO)
+
+```sh
+npm run ???
+```
