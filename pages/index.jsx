@@ -13,7 +13,7 @@ export default function Home({ ramps }) {
 
       <main>
         <h1>CoCalc NextJS Template</h1>
-        <Link href="markdown-page/">Markdown Page</Link>
+        <Link href="/markdown-page/">Markdown Page</Link>
       </main>
     </div>
   );
